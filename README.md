@@ -9,7 +9,6 @@ Java, JUnit, Gradle, Spark
 
 ## Usage
 To use the code, you can clone the repository at: [https://github.com/mehequanna/java-squadsproject](https://github.com/mehequanna/java-squadsproject).
-If this were a program:
 * $ git clone https://github.com/mehequanna/java-squadsproject
 * $ cd java-squadsproject
 * $ gradle run
