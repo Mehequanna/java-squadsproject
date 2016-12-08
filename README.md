@@ -4,6 +4,8 @@ Fight for a Cause! Heroes Unite!
 ## Features
 This is a program where the user can create squads and populate each squad with four heroes.
 
+![screenshot of project](squads.png)
+
 ##Technologies
 Java, JUnit, Gradle, Spark
 
