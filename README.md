@@ -6,7 +6,7 @@ This is a program where the user can create squads and populate each squad with 
 
 ![screenshot of project](squads.png)
 
-##Technologies
+## Technologies
 Java, JUnit, Gradle, Spark
 
 ## Usage
@@ -19,6 +19,6 @@ To use the code, you can clone the repository at: [https://github.com/mehequanna
 ## Author/s
 Stephen Emery & Sheena Nickerson
 
-##License
+## License
 This work can be used under the MIT License.
 Copyright (c) 2016 Sheena Nickerson & Stephen Emery
